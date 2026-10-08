@@ -600,6 +600,14 @@ The current implementation includes:
 
 ---
 
+## Project Demo
+
+Watch the CineMatch project walkthrough:
+
+[View Demo Video](https://drive.google.com/file/d/1NuQcAIRajzZfyI3TXe7_el9uEwhdB7g_/view?usp=drive_link)
+
+---
+
 ## Author
 
 **Aditya Yadav**
