@@ -177,6 +177,9 @@ pip install -r requirements.txt
 Create a `.env` file inside the `backend` folder and add your TMDB access token:
 
 ```env
+MONGO_URL="mongodb://localhost:27017"
+DB_NAME="test_database"
+CORS_ORIGINS="*"
 TMDB_ACCESS_TOKEN=your_tmdb_access_token
 ```
 
