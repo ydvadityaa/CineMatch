@@ -604,7 +604,13 @@ The current implementation includes:
 
 Watch the CineMatch project walkthrough:
 
-[View Demo Video](https://drive.google.com/file/d/1NuQcAIRajzZfyI3TXe7_el9uEwhdB7g_/view?usp=drive_link)
+[View Demo Video](https://drive.google.com/file/d/1NuQcAIRajzZfyI3TXe7_el9uEwhdB7g_/view?usp=sharing)
+
+## LinkedIn Project Post
+
+I also shared a walkthrough of CineMatch on LinkedIn.
+
+[View the LinkedIn Post](https://lnkd.in/p/gqYRYDUR)
 
 ---
 
@@ -615,7 +621,8 @@ Watch the CineMatch project walkthrough:
 GitHub:  
 https://github.com/ydvadityaa
 
----
+LinkedIn:  
+https://linkedin.com/in/aditya-yadav09
 
 ## Project Link
 
