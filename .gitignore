@@ -1,0 +1,44 @@
+# BACKEND
+backend/.env
+backend/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/data/.ipynb_checkpoints/
+
+# Heavy / raw data
+backend/data/TMDB_movie_dataset_v11.csv
+backend/data/movies_cleaned.csv
+
+# FRONTEND
+cine-match-frontend-development/node_modules/
+cine-match-frontend-development/.next/
+cine-match-frontend-development/out/
+
+cine-match-frontend-development/.env
+cine-match-frontend-development/.env.local
+cine-match-frontend-development/.env.development.local
+cine-match-frontend-development/.env.test.local
+cine-match-frontend-development/.env.production.local
+
+cine-match-frontend-development/npm-debug.log*
+cine-match-frontend-development/yarn-debug.log*
+cine-match-frontend-development/yarn-error.log*
+cine-match-frontend-development/pnpm-debug.log*
+
+cine-match-frontend-development/*.tsbuildinfo
+
+# GENERAL
+.DS_Store
+Thumbs.db
+# Test reports
+test_reports/
+
+# Accidental backend files
+backend/GET/
+
+# Using npm for frontend
+cine-match-frontend-development/pnpm-lock.yaml
+cine-match-frontend-development/pnpm-workspace.yaml
